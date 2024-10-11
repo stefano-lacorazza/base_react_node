@@ -62,6 +62,8 @@ TBD
 -   [eslint](https://eslint.org/) — find problems in your JS code.
 -   [stylelint](https://stylelint.io/) — find and fix problems in your CSS code.
 
+**Note:** The `<project-prefix>` can be changed in `project.config.ts`.
+
 #### 🏅 Pull Request flow
 
 ```
@@ -70,7 +72,7 @@ TBD
 
 ##### Example
 
--   `OV-5: Add auth`
+-   `PP-5: Add auth`
 
 #### 🌳 Branch flow
 
@@ -85,9 +87,9 @@ TBD
 
 ##### Examples
 
--   `task/OV-6-add-videoplayer`
--   `task/OV-12-add-video-generating-flow`
--   `fix/OV-16-fix-videoplayer`
+-   `task/PP-6-add-videoplayer`
+-   `task/PP-12-add-video-generating-flow`
+-   `fix/PP-16-fix-videoplayer`
 
 #### 🗂 Commit flow
 
@@ -103,9 +105,9 @@ TBD
 
 ##### Examples
 
--   `OV-6: + title for videoplayer`
--   `OV-12: * videoplayer title`
--   `OV-16: - videoplayer title`
+-   `PP-6: + title for videoplayer`
+-   `PP-12: * videoplayer title`
+-   `PP-16: - videoplayer title`
 
 ## 📦 CI/CD
 

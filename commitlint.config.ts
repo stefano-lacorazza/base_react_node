@@ -17,7 +17,7 @@ Where:
     - <modifier>: ${COMMIT_MODIFIERS.join(', ')}
     - <environment>: ${ProjectPrefix.ENVIRONMENTS.join(', ')}
 Examples:
-    - OV-5: + ui/ux lecture
+    - PP-5: + ui/ux lecture
     - production: - comments in ui/ux homework`;
 
 const configuration: UserConfig = {
